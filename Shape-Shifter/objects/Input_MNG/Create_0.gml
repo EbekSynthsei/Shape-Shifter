@@ -15,7 +15,7 @@ enum inputCommand{
 }
 
 //ASSOCIAZIONE TASTIERA - COMANDO
-input_default_key(vk__left, inputCommand.moveLeft);
+input_default_key(vk_left, inputCommand.moveLeft);
 input_default_key(vk_right, inputCommand.moveRight);
 input_default_key(vk_up, inputCommand.jump);
 input_default_key(vk_down, inputCommand.shiftShape);
