@@ -5,6 +5,7 @@
     {"id":{"name":"input_mouse_x","path":"scripts/input_mouse_x/input_mouse_x.yy",},"order":4,},
     {"id":{"name":"__input_class_gamepad_mapping","path":"scripts/__input_class_gamepad_mapping/__input_class_gamepad_mapping.yy",},"order":6,},
     {"id":{"name":"input_default_joycon_axis","path":"scripts/input_default_joycon_axis/input_default_joycon_axis.yy",},"order":3,},
+    {"id":{"name":"Blob_idle","path":"sprites/Blob_idle/Blob_idle.yy",},"order":0,},
     {"id":{"name":"input_check","path":"scripts/input_check/input_check.yy",},"order":0,},
     {"id":{"name":"input_cursor_limit_circle","path":"scripts/input_cursor_limit_circle/input_cursor_limit_circle.yy",},"order":2,},
     {"id":{"name":"__input_gamepad_set_mapping","path":"scripts/__input_gamepad_set_mapping/__input_gamepad_set_mapping.yy",},"order":15,},
@@ -185,6 +186,7 @@
     {"folderPath":"folders/Input/Source Assignment.yy","order":12,"resourceVersion":"1.0","name":"Source Assignment","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Oggetti/MNGRS.yy","order":1,"resourceVersion":"1.0","name":"MNGRS","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Script/player.yy","order":1,"resourceVersion":"1.0","name":"player","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprite/sPlayer.yy","order":4,"resourceVersion":"1.0","name":"sPlayer","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
