@@ -3,15 +3,15 @@
 
 /* draw_self() - Draws the instance sprite exactly like the default draw would*/
 var msg = ""
-	 if (playerStates.idleBlob){
+	 if (hspeed == 0){
 	 msg = "Sono in idle state"
 	 draw_self();
 	 draw_text(x,y,msg);
 	 } 
 	 
-	 if (playerStates.walkBlob) {
+	 if (hspeed > 0 or hspeed < 0) {
 		 msg = "Sono in walk state"
 	 draw_self();
-	 draw_text(x,y,hspeed);
+	 draw_text(x,y,msg);
 	 } 
 	 
